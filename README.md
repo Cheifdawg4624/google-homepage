@@ -1,0 +1,1 @@
+This is my first project that I am doing for the Odin project. I have learned so much so far and can't wait to keep growing! I want to use this as a practice tool for my HTML and CSS. I love everything so far and know I am far from my goal but can't wait to reach it! From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
